@@ -1,0 +1,124 @@
+${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}${LOG_PATTERN}2024-10-15 15:32:38 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-15 15:32:38 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-15 15:32:39 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-15 15:32:41 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-15 15:33:50 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-15 15:33:50 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-15 15:33:51 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-15 15:33:53 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-15 15:33:53 ERROR TC001_AccountRegistrationTest:50 - Test Failed..
+2024-10-15 15:35:04 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-15 15:35:05 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-15 15:35:05 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-15 15:35:07 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-15 21:03:26 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-15 21:03:26 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-15 21:03:27 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-15 21:03:30 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-15 21:10:37 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-15 21:10:38 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-15 21:10:39 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-15 21:10:41 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-15 21:11:47 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-15 21:11:47 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-15 21:11:49 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-15 21:11:50 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-19 21:56:57 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-19 21:56:57 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-19 21:57:00 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-19 21:57:02 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-19 22:35:19 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-19 22:38:33 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-19 22:41:16 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-19 22:41:18 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-23 23:32:26 INFO  TC003_LoginDDT:18 - Starting TC003_LoginDDT
+2024-10-23 23:32:30 INFO  TC003_LoginDDT:57 - Finish TC003_LoginDDT
+2024-10-23 23:32:30 INFO  TC003_LoginDDT:18 - Starting TC003_LoginDDT
+2024-10-23 23:32:51 INFO  TC003_LoginDDT:18 - Starting TC003_LoginDDT
+2024-10-23 23:32:53 INFO  TC003_LoginDDT:57 - Finish TC003_LoginDDT
+2024-10-23 23:32:53 INFO  TC003_LoginDDT:18 - Starting TC003_LoginDDT
+2024-10-23 23:33:19 INFO  TC003_LoginDDT:18 - Starting TC003_LoginDDT
+2024-10-23 23:33:41 INFO  TC003_LoginDDT:18 - Starting TC003_LoginDDT
+2024-10-25 16:16:03 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-25 16:16:03 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-25 16:16:04 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-25 16:16:06 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-25 16:16:17 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-25 16:16:19 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-25 16:17:56 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-25 16:17:58 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-26 13:33:47 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 13:33:48 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 13:33:48 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 13:33:52 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 13:39:23 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 13:39:23 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 13:39:24 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 13:39:26 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 13:44:20 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 13:44:20 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 13:44:20 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 13:44:22 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 13:49:33 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 13:49:33 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 13:49:35 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 13:49:38 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 13:55:52 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 13:55:53 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 13:55:54 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 13:55:59 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 13:56:17 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-26 13:56:26 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-26 13:58:33 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 14:00:30 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 14:00:30 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 14:00:31 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 14:00:33 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 14:00:41 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-26 14:00:43 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-26 14:04:31 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 14:04:32 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 14:04:33 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 14:04:35 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 14:04:56 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-26 14:11:57 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 14:11:57 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 14:11:59 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 14:12:00 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 14:12:45 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-26 14:15:56 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 14:15:56 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 14:15:59 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 14:16:01 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 14:16:23 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-26 14:16:26 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-26 14:18:19 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 14:18:19 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 14:18:22 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 14:18:24 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 14:18:40 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-26 14:23:48 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-26 14:23:51 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-26 14:26:47 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 14:26:47 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 14:26:51 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 14:26:53 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-26 14:26:53 ERROR TC001_AccountRegistrationTest:50 - Test Failed..
+2024-10-26 14:27:12 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-26 14:27:13 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-26 14:30:24 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-26 14:30:24 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-26 14:30:26 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-26 14:30:28 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-30 14:18:25 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-30 14:18:25 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-30 14:18:26 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-30 14:18:28 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-30 14:18:38 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-30 14:18:41 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
+2024-10-30 15:24:18 INFO  TC001_AccountRegistrationTest:19 - Starting TC001_AccountRegistrationTest
+2024-10-30 15:24:18 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-30 15:24:19 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details
+2024-10-30 15:24:22 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-30 15:24:32 INFO  TC002_LoginTest:19 - Starting TC002_Login Test
+2024-10-30 15:24:34 INFO  TC002_LoginTest:34 - Finished TC_002_Login Test...
